@@ -4,10 +4,12 @@ seja bemm vindo
 
 estou estudando na [Alura}(https://www.alura.com.br/)
 
--tenho 15 ano
+-tenho 15 anos
 
 -jogo Handbol
 
 -estudo no colégio Adolpho
 
--gosto de Aministrção
+-catolico
+
+**apenas dormindo em casa**
