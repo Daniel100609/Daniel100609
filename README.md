@@ -6,7 +6,7 @@ Boa noite, Boa tarde, Bom dia,
 
 **Daniel**
 
-estou estudando na [Alura}(https://www.alura.com.br/)
+estou estudando na [Alura](https://www.alura.com.br/)
 
 -tenho 15 anos
 
@@ -18,9 +18,15 @@ estou estudando na [Alura}(https://www.alura.com.br/)
 
 -jogador de Braws Stars
 
+-pretendo ter um casal de filhos 
+
+-pretendo ser bem sucedido na minha vida, tanto pessoal quanto profissional
+
 *viva o hoje aproveite hoje por que amanhão pode ser tarde*
 
 **apenas dormindo em casa**
 
 entre em contato comigo em
 morandi.daniel@escola.pr.gov.br
+
+
